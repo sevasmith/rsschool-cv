@@ -1,5 +1,7 @@
 # SEVA KAVALENKA
 
+<img src="./photo.jpg" alt="Seva Kavalenka photo" width="200" style="margin:20px;">
+
 ## Front-End Developer
 
 Warsaw, Poland / +48 123456789  
